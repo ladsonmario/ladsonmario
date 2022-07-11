@@ -10,8 +10,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
-  <img align="center" height="30" width="40" src="https://www.iconsdb.com/icons/preview/brown/mustache-2-xxl.png"> 
+  <img align="center" src="https://img.icons8.com/color/40/000000/bootstrap.png">
+  <img align="center" height="30" width="30" src="https://www.iconsdb.com/icons/preview/brown/mustache-2-xxl.png"> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">   
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 </div>
