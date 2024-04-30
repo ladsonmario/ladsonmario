@@ -9,6 +9,9 @@ Um arquiteto das ideias enigmáticas, cujo talento se traduz em linhas de códig
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ladsonmario/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=30A3DC)](https://www.facebook.com/ladsonmario/)
 
+### Atuação profissional
+Developer em ![Athan](https://athan.cc/).
+
 ### Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
