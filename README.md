@@ -10,7 +10,7 @@ Um arquiteto das ideias enigmáticas, cujo talento se traduz em linhas de códig
 [![Facebook](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=30A3DC)](https://www.facebook.com/ladsonmario/)
 
 ### Atuação profissional
-Developer em ![Athan](https://athan.cc/).
+Developer em [Athan](https://athan.cc/).
 
 ### Habilidades
 
